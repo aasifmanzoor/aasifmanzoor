@@ -1,7 +1,5 @@
 - 👋 Hi, I’m ASIF MANZOOR
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Deep Learning
-- 💞️  I’m currently working on PowerBI project 
 - 📫 Follow my instagram page @aasifcodes
 
 <!---
